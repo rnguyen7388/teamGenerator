@@ -9,10 +9,11 @@
 3.[Questions](#Questions)
 
 This is sample generated template
-![](output/teamMembers1.png)
+![](assets/teamMembers1.png)
 
-Users will be asked questions to fill out template
-![](output/questions.png)
+Users will be asked questions to fill out information on team members
+![](assets/questions.png)
+
 ## Installation Requirements
     npm inquirer
 ## Usage
