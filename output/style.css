@@ -1,0 +1,16 @@
+.jumbotron {
+    color: white;
+    background-color: lightgreen;
+}
+
+.card {
+    background-color: lightpink;
+    margin: 5px;
+}
+
+.card-columns {
+    display:inline-block;
+}
+.team-area {
+    flex-wrap: wrap;
+}
